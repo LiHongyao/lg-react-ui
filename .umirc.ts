@@ -1,14 +1,14 @@
 /*
  * @Author: Li-HONGYAO
  * @Date: 2021-05-26 13:38:35
- * @LastEditTime: 2021-05-26 14:39:12
+ * @LastEditTime: 2021-05-26 17:51:01
  * @LastEditors: Li-HONGYAO
  * @Description:
  * @FilePath: \lg-react-ui\.umirc.ts
  */
 import { defineConfig } from 'dumi';
 
-const BASE_URI = 'http://localhost:8000';
+const BASE_URI = '';
 export default defineConfig({
   title: 'lg-react-mobile',
   description: '世间犹若浓汤，你我皆在碗中沉浮。',
