@@ -7,8 +7,6 @@
  * @FilePath: \lg-react-ui\src\components\NoData\index.md
 -->
 
-
-
 # NoData
 
 ```tsx
@@ -21,6 +19,7 @@ export default () => {
 ```
 
 ## API
-| 成员 | 说明 | 属性 | 默认值 |
-| ---- | ---- | ---- | ------ |
-| **tips?** | 提示信息 | string | - |
+
+| 成员      | 说明     | 属性   | 默认值 |
+| --------- | -------- | ------ | ------ |
+| **tips?** | 提示信息 | string | -      |
